@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    width: 200px;
+    text-align: center;
+    padding-left: 550px;
+}
+.a{
+    text-align: center;
+}
+.divclass
+{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.divclass .span1{
+    color: rgb(201, 138, 4);
+}
+.divclass .span2 {
+    color: rgb(201, 138, 4);
+}
+.divclass .span3 {
+    color: rgb(201, 138, 4);
+}
+
+ 
